@@ -1,15 +1,15 @@
 <svg height="190" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="190" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 16:53:58 +0000    18503 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 16:53:58 +0000     1084 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 16:53:58 +0000     4738 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 16:53:58 +0000      548 bytes  lib/errors/googleplusapierror.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 16:53:58 +0000      452 bytes  lib/errors/userinfoerror.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 16:53:58 +0000      156 bytes  lib/index.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-21 16:53:58 +0000     1325 bytes  lib/profile/googleplus.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-21 16:53:58 +0000     1042 bytes  lib/profile/openid.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-21 16:53:58 +0000     6190 bytes  lib/strategy.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-21 16:53:58 +0000     2968 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 16:55:00 +0000    18503 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 16:55:00 +0000     1084 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 16:55:00 +0000     4738 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 16:55:00 +0000      548 bytes  lib/errors/googleplusapierror.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 16:55:00 +0000      452 bytes  lib/errors/userinfoerror.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 16:55:00 +0000      156 bytes  lib/index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 16:55:00 +0000     1325 bytes  lib/profile/googleplus.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 16:55:00 +0000     1042 bytes  lib/profile/openid.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 16:55:00 +0000     6190 bytes  lib/strategy.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 16:55:00 +0000     2968 bytes  package.json</tspan>
 </text>
 </svg>
